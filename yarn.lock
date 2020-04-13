@@ -5273,7 +5273,7 @@ expand-tilde@^2.0.0, expand-tilde@^2.0.2:
   dependencies:
     homedir-polyfill "^1.0.1"
 
-expo-activity-feed@./expo-package:
+"expo-activity-feed@file:expo-package":
   version "0.9.1"
   dependencies:
     react-native-activity-feed-core v0.9.1
